@@ -1,0 +1,38 @@
+.jumbotron{
+  background-image: url("../img/new-zealand-4355349_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  min-height: 60vh;
+}
+
+h1,p{
+  color: white;
+}
+
+.card img{
+  max-height: 169px
+}
+
+.card p{
+  color: black;
+  max-height: 5vh;
+  margin-bottom: 4vh;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+.carousel img{
+  max-height: 250px;
+}
+
+.carousel h2{
+  margin-bottom: 12vh;
+  font-size: 4em;
+}
+
+.carousel p{
+  font-size: 2rem;
+}
